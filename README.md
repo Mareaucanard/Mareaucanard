@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Mareaucanard
-- 🌱 I’m currently learning C
 - 📫 How to reach me matthieu.fraiz@epitech.eu
 
 <!---
